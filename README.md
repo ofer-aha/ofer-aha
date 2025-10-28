@@ -24,8 +24,6 @@
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=222&style=flat">&nbsp;
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat">&nbsp;
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff&style=flat">&nbsp;
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=222&style=flat">&nbsp;
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat">&nbsp;
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat">
 </p>
