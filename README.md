@@ -28,15 +28,14 @@
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat">
 </p>
 
-### Featured projects
+### Featured repos
 <!-- Replace with your real projects; keep it short and skimmable -->
-- [Project One](https://github.com/ofer-aha/PROJECT_ONE) — one‑liner on what it does and why it’s interesting.  
-  <img alt="stars" src="https://img.shields.io/github/stars/ofer-aha/PROJECT_ONE?style=social">
-- [Project Two](https://github.com/ofer-aha/PROJECT_TWO) — solves X with a tiny, readable approach.  
-  <img alt="stars" src="https://img.shields.io/github/stars/ofer-aha/PROJECT_TWO?style=social">
-- [Project Three](https://github.com/ofer-aha/PROJECT_THREE) — small tool that people actually use.  
+- [Save As PDF](https://github.com/ofer-aha/SaveAsPDF) — Outlook add-in designed to simplify the process of saving emails to PDF.  
+- [Window Ugrade all Apps](https://github.com/ofer-aha/Windows-Upgrade-All-Apps) —  upgrades installed applications via winget..  
+ 
+<!-- [Project Three](https://github.com/ofer-aha/PROJECT_THREE) — small tool that people actually use.  
   <img alt="stars" src="https://img.shields.io/github/stars/ofer-aha/PROJECT_THREE?style=social">
-
+-->
 ### By the numbers
 <p>
   <img height="150" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ofer-aha&show_icons=true&theme=transparent&hide_border=true&rank_icon=github">
