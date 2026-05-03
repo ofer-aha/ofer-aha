@@ -82,7 +82,7 @@
     <img height="150" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ofer-aha&show_icons=true&theme=transparent&hide_border=true&rank_icon=github">
   </a>
   <a href="https://github.com/ofer-aha">
-    <img height="150" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ofer-aha&layout=compact&theme=transparent&hide_border=true">
+    <img height="150" alt="Top languages" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ofer-aha&layout=compact&theme=transparent&hide_border=true">
   </a>
 </p>
 
